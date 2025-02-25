@@ -19,6 +19,9 @@ This project demonstrates a complete data pipeline, starting from data extractio
 - Kaggle API (Dataset Download)
 # Key Learnings & Insights:
 --> How to efficiently download and manage datasets using the Kaggle API.
+
 --> Best practices for data cleaning and transformation in Python.
+
 --> How to store and retrieve data from SQL Server.
+
 --> Understanding performance differences between Python and SQL queries.
